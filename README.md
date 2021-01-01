@@ -1,0 +1,2 @@
+# convertYamlToCsv
+YamlとCSVを相互変換するスクリプト
